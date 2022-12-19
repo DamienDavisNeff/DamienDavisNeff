@@ -1,3 +1,3 @@
-Instagram: *@sirspiro*
-Twitter: *@sirspiroszn*
+Instagram: *@sirspiro*<br>
+Twitter: *@sirspiroszn*<br>
 Email: *damien@thirdplacestudios.ga*
