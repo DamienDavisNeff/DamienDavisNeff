@@ -3,6 +3,5 @@
 ### I do some things, sometimes. ###
 
 #### Social Media ####
-- Instagram: [*@sirspiro*](https://www.instagram.com/SirSpiro)<br>
-- Twitter: [*@sirspiroszn*](https://www.twitter.com/SirSpiroSZN)<br>
-- Email: *damiendavisneff@gmail.com*
+- Twitter: [*@DamienDavisNeff*](https://www.twitter.com/DamienDavisNeff)<br>
+- Email: *[damiendavisneff@gmail.com](mailto://damiendavisneff@gmail.com)*
