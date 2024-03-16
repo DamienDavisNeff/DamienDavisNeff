@@ -2,10 +2,10 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DamienDavisNeff&layout=compact&theme=transparent" />
+  <img height=200 align="center" style="margin: 30px" src="https://github-readme-stats.vercel.app/api?username=DamienDavisNeff&layout=compact&theme=transparent" />
 </a>
 <a href="https://github.com/DamienDavisNeff/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DamienDavisNeff&layout=compact&theme=transparent&card_width=320" />
+  <img height=200 align="center" style="margin: 30px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DamienDavisNeff&layout=compact&theme=transparent&card_width=320" />
 </a>
 <br><br>
 
