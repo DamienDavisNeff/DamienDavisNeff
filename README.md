@@ -1,7 +1,24 @@
-## Damien Davis-Neff ##
+### I do some things, occasionally.
+<hr>
 
-### I do some things, sometimes. ###
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DamienDavisNeff&layout=compact&theme=transparent" />
+</a>
+<a href="https://github.com/DamienDavisNeff/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DamienDavisNeff&layout=compact&theme=transparent&card_width=320" />
+</a>
+<br><br>
 
-#### Social Media ####
-- Twitter: [*@DamienDavisNeff*](https://www.twitter.com/DamienDavisNeff)<br>
-- Email: *[damiendavisneff@gmail.com](mailto://damiendavisneff@gmail.com)*
+Hey, thats a passing grade!
+<hr>
+
+<!-- Social Media Icons: https://github.com/gauravghongde -->
+<a href="https://www.twitter.com/DamienDavisNeff">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" style="width: 2rem">
+</a>
+<a href="https://github.com/DamienDavisNeff">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" style="width: 2rem">
+</a>
+<a href="https://www.damiendavisneff.com/support">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" style="width: 2rem">
+</a>
