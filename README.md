@@ -14,7 +14,7 @@
 <hr>
 
 <!-- Social Media Icons: https://github.com/gauravghongde -->
-<a href="https://www.twitter.com/DamienDavisNeff">
+<a href="https://www.twitter.com/SirSpiroSZN">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" style="width: 2rem">
 </a>
 
@@ -22,6 +22,6 @@
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" style="width: 2rem">
 </a>
 
-<a href="https://www.damiendavisneff.com/support">
+<--<a href="https://www.damiendavisneff.com/support">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" style="width: 2rem">
-</a>
+</a>-->
