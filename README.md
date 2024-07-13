@@ -14,7 +14,7 @@
 <hr>
 
 <!-- Social Media Icons: https://github.com/gauravghongde -->
-<a href="https://www.twitter.com/SirSpiroSZN">
+<a href="https://www.twitter.com/DamienDavisNeff">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" style="width: 2rem">
 </a>
 
