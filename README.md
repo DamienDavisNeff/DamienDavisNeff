@@ -17,7 +17,9 @@
 <a href="https://www.twitter.com/DamienDavisNeff">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" style="width: 2rem">
 </a>
-
+<a href="https://www.youtube.com/@DamienDavisNeff">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" style="width: 2rem">
+</a>
 <a href="https://github.com/DamienDavisNeff">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" style="width: 2rem">
 </a>
